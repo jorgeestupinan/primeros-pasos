@@ -1,0 +1,3 @@
+edad:17
+experiencia:estudiante
+curso:me entere por las redes
